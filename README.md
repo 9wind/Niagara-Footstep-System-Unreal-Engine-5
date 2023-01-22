@@ -3,11 +3,11 @@
  
  <img src="https://raw.githubusercontent.com/9wind/Niagara-Footstep-System-Unreal-Engine-5/main/3.png">
  
-We will use an Random Animation and add New Animation Notify with specified name that will be used in Animation Blueprint in the next step.
+We will use an locomotion animations to add New Animation Notify with specified name that will be used in Animation Blueprint in the next step.
  
 <img src="https://raw.githubusercontent.com/9wind/Niagara-Footstep-System-Unreal-Engine-5/main/2.png">
  
-We will use Animation Blueprint to use it and Animation Notify to play it in exact moment when want it.
+In Animation Blueprint we will add this Animation Notify to play it in exact moment when want it.
  
 <img src="https://raw.githubusercontent.com/9wind/Niagara-Footstep-System-Unreal-Engine-5/main/1.png">
  
