@@ -11,6 +11,6 @@ In Animation Blueprint we will add this Animation Notify to play it in exact mom
  
 <img src="https://raw.githubusercontent.com/9wind/Niagara-Footstep-System-Unreal-Engine-5/main/1.png">
  
-To add more Surface Types head to the Project Settings and Physics tab where you can specify your own Surface Type. Then we can choose it the DataTable.
+To add more Surface Types head to the Project Settings and Physics tab where you can specify your own Surface Type. Then we can choose it in the DataTable under "Type" variable.
 
 <img src="https://raw.githubusercontent.com/9wind/Niagara-Footstep-System-Unreal-Engine-5/main/4.png">
